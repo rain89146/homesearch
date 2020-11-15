@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "id": "1000",
+            "remark": "2 bed 2 bath",
+            "name": "1118 Majestic Canyon St, Henderson, NV 89052",
+            "images": [
+                "https://a0.muscache.com/im/pictures/cac13d0f-1b23-4e42-aad7-c24e40ed9895.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/d1a6b280-f488-412d-9b15-0eb19ce75299.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/07552b7d-38b7-4213-abba-64ce1e1aebd9.jpg?im_w=1200"
+            ],
+            "desc": "This home is ready NOW for you to start enjoying your total home retreat. Calming water features in courtyard entry & foyer offers Zen sophistication.",
+            "views": 47,
+            "price": "318000",
+            "sqft": "1384",
+            "center": [-0.15591514, 51.51830379]
+        },
+        {
+            "id": "1001",
+            "remark": "3 bed 2.5 bath",
+            "name": "9908 Calabasas Ave, Las Vegas, NV 89117",
+            "images": [
+                "https://a0.muscache.com/im/pictures/15e5da3f-4a8e-42e0-bbd2-762eabbed076.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/be1257da-2dca-4d20-8075-18248067de89.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/b962de15-678d-44d2-9c28-b42cafa6cc53.jpg?im_w=1200"
+            ],
+            "desc": "Approach the tranquil grounds with lovely water fountains, grand terraces, and lush landscaping; a scene perfectly representing the sophistication and warmth within.",
+            "views": 67,
+            "price": "299000",
+            "sqft": "1461",
+            "center": [-0.07571203, 51.51424049]
+        },
+        {
+            "id": "1002",
+            "remark": "2 bed 2 bath",
+            "name": "6221 Carmen Blvd, Las Vegas, NV 89108",
+            "images": [
+                "https://a0.muscache.com/im/pictures/24b6e6b5-ebb4-4c50-981b-d8147f068f5a.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/8b5dd1a5-ab83-4f87-a7f5-551365c1b35c.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/42632ee3-e824-488e-a4f7-a7a26149342c.jpg?im_w=1200"
+            ],
+            "desc": "Perched high above hole 6 on Rio Secco Golf Course, this award winning home offers some of the best strip/golf/mountain views in the area",
+            "views": 59,
+            "price": "245000",
+            "sqft": "1076",
+            "center": [-0.08533793, 51.50438536]
+        },
+        {
+            "id": "1003",
+            "remark": "4 bed 2.5 bath",
+            "name": "7109 Dalegrove Dr, Las Vegas, NV 89129",
+            "images": [
+                "https://a0.muscache.com/im/pictures/40150833-d680-4473-a155-ca4035017d3a.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/4254c06e-e3a6-4329-8929-add699a8c69e.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/1f9daa4c-5614-4ff1-b5a3-caa6810b7e44.jpg?im_w=1200"
+            ],
+            "desc": "A premier Seven Hills luxury estate compound on .73 acre homesite in guard gated Rapallo.  8,765sf including a basement wine cellar & tasting room.",
+            "views": 69,
+            "price": "345000",
+            "sqft": "2019",
+            "center": [0.05991101, 51.48752939]
+        },
+        {
+            "id": "1004",
+            "remark": "3 bed 2.5 bath",
+            "name": "2160 Arborwood Way, Las Vegas, NV 89142",
+            "images": [
+                "https://a0.muscache.com/im/pictures/00fb272c-95e8-469a-a3ab-a43951f64da1.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/4c1e9d70-aae6-471d-9e00-5db2d46cdb9f.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/91d04a1f-8365-47fd-a9b8-681ab4789caa.jpg?im_w=1200"
+            ],
+            "desc": "Beautiful 1 story, 3 bedroom 2 bath property located in the Green Valley area. Open floor plan, with plenty of space for entertaining",
+            "views": 69,
+            "price": "280000",
+            "sqft": "2299",
+            "center": [-0.18335806, 51.49439521]
+        },
+        {
+            "id": "1005",
+            "remark": "4 bed 3.5",
+            "name": "3137 Baranek Ave, Henderson, NV 89044",
+            "images": [
+                "https://a0.muscache.com/im/pictures/212b5a52-70fc-41fb-8e43-085a14398549.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/f598c7fa-9635-4942-9cf8-cf01a64e29ee.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/4268f8ad-2edc-4b1c-8a09-32265d894019.jpg?im_w=1200"
+            ],
+            "desc": "Laminate flooring in living room, and dining area. Modern style master bathroom, Jack & Jill sinks, separate shower and tub with huge closet space",
+            "views": 81,
+            "price": "400000",
+            "sqft": "2265",
+            "center": [-0.19684993, 51.5033856]
+        },
+        {
+            "id": "1006",
+            "remark": "6 bed 3 bath",
+            "name": "2121 Mistle Thrush Dr, North Las Vegas, NV",
+            "images": [
+                "https://a0.muscache.com/im/pictures/monet/Select-32133907/original/3f8bda99-0819-4c2c-8ee8-5ccae3872837?im_w=1200",
+                "https://a0.muscache.com/im/pictures/monet/Select-32133907/original/a87bbe41-013c-4cf7-aa94-78f2f82c8a24?im_w=1200",
+                "https://a0.muscache.com/im/pictures/monet/Select-32133907/original/6ff3b7b8-35ae-4baa-bcb0-619c59158748?im_w=1200"
+            ],
+            "desc": "Easy to maintain desert landscape for front and backyard. Amazing lot, with side access gate for possible RV/toys. Must see won't last long",
+            "views": 99,
+            "price": "480000",
+            "sqft": "3752",
+            "center": [-0.10669358, 51.51433123]
+        },
+        {
+            "id": "1007",
+            "remark": "4 bed 3.5 bath",
+            "name": "1526 Brasswood St, Las Vegas, NV 89110",
+            "images": [
+                "https://a0.muscache.com/im/pictures/de0d4800-6ce4-4705-b449-2f70e621a90e.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/578aa4a8-f92f-4d19-bedf-fee9b06600d9.jpg?im_w=1200",
+                "https://a0.muscache.com/im/pictures/98f3567d-e61e-46b1-9cda-c6a719fa7a09.jpg?im_w=1200"
+            ],
+            "desc": "The decker is sure to delight those seeking a ranch-style floor plan. The open layout makes it easy to cook and entertain at the same time",
+            "views": 51,
+            "price": "435000",
+            "sqft": "2916",
+            "center": [-0.12416858, 51.50779757]
+        }  
+    ]
+}
